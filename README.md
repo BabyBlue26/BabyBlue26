@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BabyBlue26
-- 👀 I’m interested in Game Development and software
-- 🌱 I’m currently learning python and javacript
+- 👋 Hi
+- 👀 I’m interested in NERFs and all things Computer Vision
+- 🌱 I mostly use python and javacript
 
 
 <!---
