@@ -1,6 +1,6 @@
 - 👋 Hi
 - 👀 I’m interested in NERFs and all things Computer Vision
-- 🌱 I mostly use python and javacript
+- 🌱 I mostly use python and rust
 
 
 <!---
