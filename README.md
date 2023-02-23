@@ -1,6 +1,6 @@
 - 👋 Hi
-- 👀 I’m interested in NERFs and all things Computer Vision
-- 🌱 I mostly use python and rust
+- 👀 I’m interested in NeRFs, NLP and LLMs (It will all make sense in the end)
+- 🌱 I'm a noob that primarily uses python and rust
 
 
 <!---
